@@ -18,7 +18,7 @@ python -m pip install -r invoice_ocr_demo/requirements.txt
 PowerShell:
 
 ```powershell
-$env:SILICONFLOW_API_KEY="你的硅基流动API Key"
+$env:SILICONFLOW_API_KEY="你的硅基流动 API Key"
 ```
 
 ## 3. 运行
